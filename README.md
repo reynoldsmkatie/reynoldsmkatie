@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile!
 
-I am currently a web producer for Disney Parks & Resorts and work mostly in a CMS. I also have experience with Scrum / Agile, project management, documentation-writing and marketing. I am teaching myself to code and trying to learn something new every day. [View my full resume](https://www.codeeverydamnday.com/resume.html).
+I am currently a web producer for Disney Parks & Resorts and work mostly in a CMS. I also have experience with Scrum / Agile, project management, technical writing and marketing. I am teaching myself to code and trying to learn something new every day. [View my full resume](https://www.codeeverydamnday.com/resume.html).
 
 On April 1, 2021, I created [CodeEveryDamnDay.com](https://www.codeeverydamnday.com/) to track my progress learning front-end web development. I have since created several small projects using HTML, CSS and JavaScript. [View my full portfolio](https://www.codeeverydamnday.com/portfolio.html). 
 
