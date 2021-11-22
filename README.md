@@ -6,7 +6,7 @@ On April 1, 2021, I created [CodeEveryDamnDay.com](https://www.codeeverydamnday.
 
 Projects I'm most proud of:
 
-[<img src="https://www.codeeverydamnday.com/images/dragondropcta.png" width="300px">](https://codeeverydamnday.com/projects/dragondrop/index.html)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://www.codeeverydamnday.com/images/rocketblastercta.png" width="300px">](https://codeeverydamnday.com/projects/rocketblaster/index.html)
+[<img src="https://www.codeeverydamnday.com/images/whackazombiecta.png" width="300px">](https://codeeverydamnday.com/projects/whackazombie/index.html)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://www.codeeverydamnday.com/images/rocketblastercta.png" width="300px">](https://codeeverydamnday.com/projects/rocketblaster/index.html)
 
 I am not currently in search of job opportunities, but you can contact me on Twitter [@planet_katie](https://twitter.com/planet_katie) or directly at <a href="mailto:reynoldsmkatie@gmail.com">reynoldsmkatie@gmail.com</a> for other inquiries.
 
